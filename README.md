@@ -5,4 +5,5 @@ Le TrewUiHud en double job et aussi en organisation, si vous voulez je pourrais 
 - TrewUiHud DoubleJob : L'hud avec le double job en metier
 - TrewUiHud DoubleOrg : L'hud avec le double job en gand
 
-Credits : @vortisrd
+
+Credits : @vortisrd, qui a créer la resource originale
