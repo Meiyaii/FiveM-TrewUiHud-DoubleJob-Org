@@ -7,3 +7,6 @@ Le TrewUiHud en double job et aussi en organisation, si vous voulez je pourrais 
 
 
 Credits : @vortisrd, qui a créer la resource originale
+
+
+PS : renommez la resource "trew_hud_ui" quand vous avez fait votre choix ^^'
