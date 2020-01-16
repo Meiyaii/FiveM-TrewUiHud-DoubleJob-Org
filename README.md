@@ -10,3 +10,4 @@ Credits : @vortisrd, qui a créer la resource originale
 
 
 PS : renommez la resource "trew_hud_ui" quand vous avez fait votre choix ^^'
+PSS :  JE N'AI PAS CREER CETTE RESSOURCE !
